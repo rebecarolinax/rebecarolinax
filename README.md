@@ -10,7 +10,7 @@ Gosto muito de **ler** e **viajar**, sou apaixonada em animais e especialmente e
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=transparent&icon_color=EE82EE&title_color=DA70D6&text_color=1919e6&border_color=1919e6">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&theme=transparent&icon_color=EE82EE&title_color=DA70D6&text_color=A9A9A9&border_color=A9A9A9">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&theme=transparent&icon_color=EE82EE&title_color=DA70D6&text_color=1919e6&border_color=1919e6">
 </div>
 
 
