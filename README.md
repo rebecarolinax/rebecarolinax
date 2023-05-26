@@ -4,7 +4,7 @@ Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou curs
 
 Sou **brasileira** e resido em **Ribeirão Pires**, **São Paulo** e estudo no **Senai Paulo Antônio Skaf**, localizada em **São Caetano Do Sul**
 
-Estudando para futuramente atuar em **Back-End** 💻
+Estudando para futuramente atuar em **BackEnd** 💻
 
 Gosto muito de **ler** e **viajar**, sou apaixonada em animais e especialmente em **gatos** 😻 
 
