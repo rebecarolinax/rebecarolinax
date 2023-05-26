@@ -2,7 +2,7 @@
 
 Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou cursando **Desenvolvimento De Sistemas** na **Instituição Senai De Informática** 
 
-Sou **brasileira** e resido em **Ribeiráo Pires**, **São Paulo** e estudo no **Senai Paulo Antônio Skaf**, localizada em **São Caetano Do Sul**
+Sou **brasileira** e resido em **Ribeirão Pires**, **São Paulo** e estudo no **Senai Paulo Antônio Skaf**, localizada em **São Caetano Do Sul**
 
 Estudando para futuramente atuar em **Back-End** 💻
 
