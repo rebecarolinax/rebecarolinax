@@ -4,7 +4,7 @@ Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou curs
 
 Estudando para futuramente atuar em **Back-End** 💻
 
-Gosto muito de **ler e viajar**, sou apaixonada em animais e especialmente em **gatos** 😻 
+Gosto muito de **ler** e **viajar**, sou apaixonada em animais e especialmente em **gatos** 😻 
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=transparent&icon_color=EE82EE&title_color=DA70D6&text_color=A9A9A9&border_color=A9A9A9">
