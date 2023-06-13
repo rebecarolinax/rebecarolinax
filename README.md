@@ -6,7 +6,7 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 
 Estudando para futuramente atuar como desenvolvedora **Back-End** 💻
 
-Adoro explorar novas **tecnologias** 
+Adoro explorar novas **tecnologias**
 
 Sou apaixonada em animais domésticos, especialmente **gatos** 😻 
 
