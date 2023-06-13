@@ -6,7 +6,7 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 
 Estudando para futuramente atuar em **Back-End** 💻
 
-Vocação em **T.I**
+Adoro explorar novas **tecnologias** e sou adepta ao **mundo virtual.**
 
 Sou apaixonada em animais domésticos, especialmente **gatos** 😻 
 
