@@ -6,7 +6,7 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 
 Estudando para futuramente atuar como desenvolvedora **Back-End** 💻
 
-Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**, estudos completos você encontra nos **repositórios anexados no meu perfil** 
+Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**, estudos completos você encontra nos **repositórios anexados ao meu perfil** 
 
 
 <div>
