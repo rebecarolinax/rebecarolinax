@@ -8,7 +8,7 @@ Estudando para futuramente atuar como desenvolvedora **Back-End** 💻
 
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=transparent&icon_color=F40000&title_color=DA70D6&text_color=1919e6&border_color=F40000">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=transparent&icon_color=F40000&title_color=DA70D6&text_color=F40000&border_color=F40000">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&theme=transparent&icon_color=F40000&title_color=090809&text_color=090809&border_color=F40000">
 </div>
 
