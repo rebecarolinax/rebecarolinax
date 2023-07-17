@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a) ao meu perfil GitHub 💙 #
+# Olá, seja bem-vindo(a) ao meu perfil GitHub ❤️ #
 
 Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou cursando **Desenvolvimento De Sistemas** na **Instituição Senai De Informática** 
 
@@ -6,9 +6,6 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 
 Estudando para futuramente atuar como desenvolvedora **Back-End** 💻
 
-
-
-Sou apaixonada em animais domésticos, especialmente **gatos** 😻 
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=transparent&icon_color=EE82EE&title_color=DA70D6&text_color=1919e6&border_color=1919e6">
