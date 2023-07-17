@@ -6,6 +6,8 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 
 Estudando para futuramente atuar como desenvolvedora **Back-End** 💻
 
+Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**
+
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=transparent&icon_color=090809&title_color=090809&text_color=F40000&border_color=F40000">
