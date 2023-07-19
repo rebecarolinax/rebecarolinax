@@ -15,7 +15,7 @@ Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos com
 </div>
 
 
-## Informações sobre minha conta GitHub 🥇
+## Informações GitHub 🥇
 
 <div>
   <a href="https://github.com/rebecarolinax">
