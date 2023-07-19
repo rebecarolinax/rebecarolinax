@@ -10,7 +10,7 @@ Estudando para atuar como desenvolvedora **Back-End** 💻
 
 Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos completos você encontra nos **repositórios** do meu perfil ;)
 
-## Informações sobre minha conta GitHub  
+## Informações sobre minha conta GitHub 🥇
 
 <div>
   <a href="https://github.com/rebecarolinax">
