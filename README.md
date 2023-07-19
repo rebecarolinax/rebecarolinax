@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
-# Olá, seja bem-vindo(a) ao meu perfil GitHub 💜 #
+#Olá, seja bem-vindo(a) ao meu perfil GitHub 💜 #
 
 <div>
   
@@ -15,7 +15,7 @@ Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos com
 </div>
 
 
-## Informações GitHub 🥇
+##Informações GitHub 🥇
 
 <div>
   <a href="https://github.com/rebecarolinax">
@@ -24,14 +24,14 @@ Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos com
 </div>
 
 
-## Contatos e Mídias Sociais ✉
+##Contatos e Mídias Sociais ✉
 
 <a href="https://instagram.com/rebecacarolinax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rebecarolina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:rebecacarolina75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-## Formação Escolar 🎓
+##Formação Escolar 🎓
   
 Cursando **Desenvolvimento De Sistemas** e o **Novo Ensino Médio** ( Conclusão 2024 )
 
