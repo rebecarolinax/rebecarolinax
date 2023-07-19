@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 # Olá, seja bem-vindo(a) ao meu perfil GitHub 💜 #
 
@@ -9,6 +9,8 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 Estudando para atuar como desenvolvedora **Back-End** 💻
 
 Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos completos você encontra nos **repositórios** do meu perfil ;)
+
+## Informações sobre minha conta GitHub  
 
 <div>
   <a href="https://github.com/rebecarolinax">
