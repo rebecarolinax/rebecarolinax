@@ -14,6 +14,14 @@ Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos com
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&theme=transparent&icon_color=090809&title_color=090809&text_color=090809&border_color=F40000">
 </div>
 
+
+<div>
+  <a href="https://github.com/rebecarolinax">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
+
 ## Contatos e Mídias Sociais ✉
 
 <a href="https://instagram.com/rebecacarolinax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
