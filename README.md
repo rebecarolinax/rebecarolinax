@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Olá, seja bem-vindo(a) ao meu perfil GitHub ❤️ #
+# Olá, seja bem-vindo(a) ao meu perfil GitHub 💜 #
 
 Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou cursando **Desenvolvimento De Sistemas** na **Instituição Senai De Informática** 
 
@@ -12,7 +12,7 @@ Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos com
 
 <div>
   <a href="https://github.com/rebecarolinax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&langs_count=16&theme=aura"/>
 </div>
 
