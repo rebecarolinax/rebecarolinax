@@ -2,6 +2,8 @@
 
 # Olá, seja bem-vindo(a) ao meu perfil GitHub 💜 #
 
+<div>
+  
 Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou cursando **Desenvolvimento De Sistemas** na **Instituição Senai De Informática** 
 
 Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Antônio Skaf**, localizado em **São Caetano Do Sul**
@@ -9,6 +11,9 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 Estudando para atuar como desenvolvedora **Back-End** 💻
 
 Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos completos você encontra nos **repositórios** do meu perfil ;)
+  
+</div>
+
 
 ## Informações sobre minha conta GitHub 🥇
 
