@@ -14,7 +14,7 @@ Conhecimentos como **FIGMA** & **UI/UX**, **HTML** & **CSS**, **C#** & **.NET**.
 
 <div>
 
-  <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-A52A2A?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
