@@ -16,9 +16,6 @@ Conhecimentos como **FIGMA**, **HTML** & **CSS**, **C#** & **.NET**. Estudos com
   
 </div>
 
-
-## Informações GitHub 🥇
-
 <div>
   <a href="https://github.com/rebecarolinax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
