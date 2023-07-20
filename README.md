@@ -31,7 +31,7 @@ Estudando para atuar como desenvolvedora **Back-End** 💻
 
 
 
- ##
+ ## Informações GitHub ⭐
   
 </div>
 
