@@ -11,6 +11,8 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 Estudando para atuar como desenvolvedora **Back-End** 💻
 
 Conhecimentos como **FIGMA** & **UI/UX**, **HTML** & **CSS**, **C#** & **.NET**. 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 
  ##
   
