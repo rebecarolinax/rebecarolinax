@@ -10,7 +10,7 @@ Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Ant�
 
 Estudando para atuar como desenvolvedora **Back-End** 💻
 
-## Habilidades ⭐
+## Habilidades ✨
 
 <div>
 
