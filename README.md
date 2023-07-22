@@ -4,7 +4,7 @@
 
 <div>
   
-Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou cursando **Desenvolvimento De Sistemas** na **Instituição Senai De Informática** 
+Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou cursando o segundo semestre em **Desenvolvimento De Sistemas** na **Instituição Senai De Informática** 
 
 Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Antônio Skaf**, localizado em **São Caetano Do Sul**
 
