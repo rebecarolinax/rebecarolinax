@@ -33,7 +33,7 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
 
 <div>
   <a href="https://github.com/rebecarolinax">
-  <a href = "mailto:contato@rebecacarolina75@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&langs_count=16&theme=nightowl"/>
 </div>
@@ -41,6 +41,7 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
 
 ## Contatos e Mídias Sociais ✉
 
+<a href = "mailto:contato@rebecacarolina75@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rebecacarolinax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rebecarolina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
