@@ -33,6 +33,7 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
 
 <div>
   <a href="https://github.com/rebecarolinax">
+  <a href = "mailto:contato@rebecacarolina75@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&langs_count=16&theme=nightowl"/>
 </div>
