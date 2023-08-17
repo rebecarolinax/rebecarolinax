@@ -34,7 +34,6 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
   <a href="https://github.com/rebecarolinax">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecarolinax&theme=rose&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&langs_count=16&theme=rose)
 </div>
 
