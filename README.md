@@ -31,11 +31,11 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
   
 </div>
 
-<div>
   <a href="https://github.com/rebecarolinax">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&langs_count=16&theme=nightowl"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecarolinax&theme=rose&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&langs_count=16&theme=rose)
 </div>
 
 
