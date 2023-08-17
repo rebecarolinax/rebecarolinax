@@ -2,8 +2,10 @@
 
 # 💜 Olá, seja bem-vindo(a) ao meu perfil GitHub 
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=5C2D91&style=for-the-badge&logo=GitHub">
+
 <div>
-  
+
 Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou cursando o segundo semestre em **Desenvolvimento De Sistemas** na **Instituição Senai De Informática** 
 
 Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Antônio Skaf**, localizado em **São Caetano Do Sul**
