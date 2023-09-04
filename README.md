@@ -46,8 +46,7 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
 
 ## Formação Escolar 🎓
   
-⚙ Cursando **Desenvolvimento De Sistemas** e o **Novo Ensino Médio** ( Conclusão 2024 )
-⚙ Cursando **Criação De Páginas Para Internet** ( Conclusão 2023 )
+⚙ Cursando **Desenvolvimento De Sistemas** e o **Novo Ensino Médio** ( Conclusão 2024 ) ⚙ **Criação De Páginas Para Internet** ( Conclusão 2023 )
  
  
 
