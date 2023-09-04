@@ -50,5 +50,9 @@ Cursando **Desenvolvimento De Sistemas** e o **Novo Ensino Médio** ( Conclusão
 
 Cursando **Criação De Páginas Para Internet** ( Conclusão 2023 )
 
+  <h2>🎓 Formação Escolar </h2> 
+ ⚙️ Desenvolvimento De Sistemas e o Novo Ensino Médio - Conclusão 2024 <br>
+ 
+
 
 
