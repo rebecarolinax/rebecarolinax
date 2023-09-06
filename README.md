@@ -6,7 +6,7 @@
 
 <div>
 
-<p>Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>16 anos de idade</strong> e atualmente estou cursando o segundo semestre em <strong>Desenvolvimento De Sistemas</strong> e <strong>Criação De Páginas Para Internet</strong> na <strong>Instituição Senai De Informática</strong></p>
+<p>Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>16 anos de idade</strong> e atualmente estou cursando o segundo semestre em <strong>Desenvolvimento De Sistemas</strong> e <strong>Criação De Páginas</strong> na <strong>Instituição Senai De Informática</strong></p>
 
 <p>Sou <strong>brasileira</strong>, resido em <strong>Ribeirão Pires</strong> e estudo no <strong>Senai Paulo Antônio Skaf</strong>, localizado em <strong>São Caetano Do Sul</strong></p> 
 
@@ -47,7 +47,7 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
 <h2>Formação Escolar 🎓</h2> 
   
 ⚙ Cursando <strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> ( Conclusão 2024 ) <br>
-⚙ Cursando <strong>Criação De Páginas Para Internet</strong> - NovoTec Expresso ( Conclusão 2023 )   
+⚙ Cursando <strong>Criação De Páginas</strong> - NovoTec Expresso ( Conclusão 2023 )   
  
  
 
