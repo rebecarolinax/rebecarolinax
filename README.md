@@ -1,18 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
-# 💜 Olá, seja bem-vindo(a) ao meu perfil GitHub 
+<h1>💜 Olá, seja bem-vindo(a) ao meu perfil GitHub </h1> 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=5C2D91&style=for-the-badge&logo=GitHub">
 
 <div>
 
-Me chamo **Rebeca Carolina**, tenho **16 anos de idade** e atualmente estou cursando o segundo semestre em **Desenvolvimento De Sistemas** e **Criação De Páginas Para Internet** na **Instituição Senai De Informática** 
+<p>Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>16 anos de idade</strong> e atualmente estou cursando o segundo semestre em <strong>Desenvolvimento De Sistemas</strong> e <strong>Criação De Páginas Para Internet</strong> na <strong>Instituição Senai De Informática</strong></p>
 
-Sou **brasileira**, resido em **Ribeirão Pires** e estudo no **Senai Paulo Antônio Skaf**, localizado em **São Caetano Do Sul**
+<p>Sou <strong>brasileira</strong>, resido em <strong>Ribeirão Pires</strong> e estudo no <strong>Senai Paulo Antônio Skaf</strong>, localizado em <strong>São Caetano Do Sul</strong></p> 
 
 Estudando para atuar como desenvolvedora **Back-End** 🖥
 
-## Habilidades ⚙
+<h2>Habilidades ⚙</h2> 
 
 <div>
   <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" />
@@ -25,7 +25,7 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
   
 </div>
 
- ## Informações GitHub ⭐
+<h2>Informações GitHub ⭐</h2> 
   
 </div>
 
@@ -36,7 +36,7 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
 </div>
 
 
-## Contatos e Mídias Sociais ✉
+<h2>Contatos e Mídias Sociais ✉</h2> 
 
 <a href = "mailto:rebecacarolina75@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rebecacarolinax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -44,9 +44,10 @@ Estudando para atuar como desenvolvedora **Back-End** 🖥
 
 
 
-## Formação Escolar 🎓
+<h2>Formação Escolar 🎓</h2> 
   
-⚙ Cursando **Desenvolvimento De Sistemas** e o **Novo Ensino Médio** ( Conclusão 2024 ) ⚙ **Criação De Páginas Para Internet** - NovoTec Expresso ( Conclusão 2023 )
+⚙ Cursando <strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> ( Conclusão 2024 ) <br>
+⚙ Cursando <strong>Criação De Páginas Para Internet</strong> - NovoTec Expresso ( Conclusão 2023 )   
  
  
 
