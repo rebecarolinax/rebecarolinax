@@ -10,7 +10,7 @@
 
 <p>Sou <strong>brasileira</strong>, resido em <strong>Ribeirão Pires</strong> e estudo no <strong>Senai Paulo Antônio Skaf</strong>, localizado em <strong>São Caetano Do Sul</strong></p> 
 
-<p> Estudando para atuar como desenvolvedora <strong>Back-End</strong> 🖥 </p>
+<p> Estudando para atuar como desenvolvedora <strong>Back-End</strong> 🖥</p>
 
 <h2>Habilidades ⚙</h2> 
 
@@ -23,6 +23,12 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   
+</div>
+
+<h2>Estudando 🧠</h2>
+
+<div>
+ <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h2>Informações GitHub ⭐</h2> 
