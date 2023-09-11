@@ -6,7 +6,7 @@
 
 <div>
 
-<p>Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>dezesseis anos de idade</strong> e atualmente estou cursando o segundo semestre em <strong>Desenvolvimento De Sistemas</strong> e <strong>Criação De Páginas</strong> na <strong>Instituição Senai De Informática</strong></p>
+<p>Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>dezesseis anos de idade</strong> e atualmente estou cursando o segundo semestre em <strong>Desenvolvimento De Sistemas</strong> e <strong>Desenvolvimento De Páginas Para Internet</strong> na <strong>Instituição Senai De Informática</strong></p>
 
 <p>Sou <strong>brasileira</strong>, resido em <strong>Ribeirão Pires</strong> e estudo no <strong>Senai Paulo Antônio Skaf</strong>, localizado em <strong>São Caetano Do Sul</strong></p> 
 
