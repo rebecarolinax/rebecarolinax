@@ -10,7 +10,7 @@
 
 <p>Sou <strong>brasileira</strong>, resido em <strong>Ribeirão Pires</strong> e estudo no <strong>Senai Paulo Antônio Skaf</strong>, localizado em <strong>São Caetano Do Sul</strong></p> 
 
-Estudando para atuar como desenvolvedora **Back-End** 🖥
+<p> Estudando para atuar como desenvolvedora <strong>Back-End</strong> 🖥 </p>
 
 <h2>Habilidades ⚙</h2> 
 
