@@ -46,8 +46,8 @@
 
 <h2>Formação Escolar 🎓</h2> 
   
-⚙ <strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> - Conclusão Dezembro 2024  <br>
-⚙ <strong>Desenvolvimento De Páginas Para Internt</strong> - Conclusão Dezembro 2023    
+⚙ <strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> - Conclusão <strong>Dezembro 2024</strong><br>
+⚙ <strong>Desenvolvimento De Páginas Para Internt</strong> - Conclusão <strong>Dezembro 2023</strong>    
  
  
 
