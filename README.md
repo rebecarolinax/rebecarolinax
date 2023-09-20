@@ -7,11 +7,13 @@
 <div>
 
 Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>dezesseis anos de idade</strong> e atualmente estou cursando o segundo semestre em <strong>Desenvolvimento De Sistemas</strong> e <strong>Desenvolvimento De Páginas Para Internet</strong> na <strong>Instituição Senai De Informática.</strong><br>
+
 Sou <strong>brasileira</strong>, resido em <strong>Ribeirão Pires</strong> e estudo no <strong>Senai Paulo Antônio Skaf</strong>, localizado em <strong>São Caetano Do Sul.</strong> <br>
 
 Estudando para atuar como desenvolvedora <strong>Back-End.</strong> 🖥
 ##
 My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</strong>, and I am currently in the second semester of <strong>Systems Development</strong> and <strong>Web Page Development</strong> at <strong>Senai De Informática.</strong><br>
+
 I am <strong>Brazilian</strong>, I live in <strong>Ribeirão Pires</strong>, and I study at <strong>Senai Paulo Antônio Skaf</strong>, located in <strong>São Caetano Do Sul.</strong> <br>
 
 I am studying to work as a <strong>Back-End developer.</strong> 🖥
