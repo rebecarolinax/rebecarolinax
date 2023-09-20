@@ -31,7 +31,7 @@ I am <strong>Brazilian</strong>, I live in <strong>Ribeirão Pires</strong>, and
  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<h2>Informações GitHub | GitHub information ⭐</h2> 
+<h2>Informações GitHub | GitHub Information ⭐</h2> 
   
 </div>
 
