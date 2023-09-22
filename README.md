@@ -1,8 +1,8 @@
 <img src="https://openseauserdata.com/files/1dfd9f20043f3b21c35ecab73da0b9f3.gif" min-width="300px" max-width="350px" width="300px" align="right">
 
-<h1>💜 Olá, seja bem-vindo(a) ao meu perfil GitHub</h1> 
+<h1>💗 Olá, seja bem-vindo(a) ao meu perfil GitHub</h1> 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=5C2D91&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=E826AD&style=for-the-badge&logo=GitHub">
 
 <div>
 
