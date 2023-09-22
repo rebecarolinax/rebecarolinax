@@ -2,7 +2,7 @@
 
 <h1>💗 Olá, seja bem-vindo(a) ao meu perfil GitHub</h1> 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=E826AD&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=E0004D&style=for-the-badge&logo=GitHub">
 
 <div>
 
