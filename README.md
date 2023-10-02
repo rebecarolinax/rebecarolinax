@@ -11,7 +11,7 @@ Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>dezesseis anos de idade
 My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</strong>, and I am currently in the second semester of <strong>Systems Development</strong> and <strong>Web Development</strong> at <strong>Senai De Informática.</strong><br>
 
 
-<h2>Habilidades | Skills ⚙</h2> 
+<h2>Habilidades | Skills 🥇 </h2> 
 
 <div>
   <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" />
