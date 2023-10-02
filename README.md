@@ -6,9 +6,9 @@
 
 <div>
 
-Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>dezesseis anos de idade</strong> e atualmente estou cursando o segundo semestre em <strong>Desenvolvimento De Sistemas</strong> e <strong>Desenvolvimento De Páginas Para Internet</strong> na <strong>Instituição Senai De Informática.</strong><br>
+Me chamo <strong>Rebeca Carolina</strong>, tenho <strong>dezesseis anos de idade</strong> e atualmente estou cursando o segundo semestre em <strong>Desenvolvimento De Sistemas</strong> e <strong>Desenvolvimento Web</strong> na <strong>Instituição Senai De Informática.</strong><br>
 ##
-My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</strong>, and I am currently in the second semester of <strong>Systems Development</strong> and <strong>Web Page Development</strong> at <strong>Senai De Informática.</strong><br>
+My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</strong>, and I am currently in the second semester of <strong>Systems Development</strong> and <strong>Web Development</strong> at <strong>Senai De Informática.</strong><br>
 
 
 <h2>Habilidades | Skills ⚙</h2> 
@@ -52,8 +52,8 @@ My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</str
 
 <h2>Formação Escolar | Education 🎓</h2> 
   
-⚙ <strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> - Conclusão <strong>Dezembro 2024</strong><br>
-⚙ <strong>Desenvolvimento De Páginas Para Internet</strong> - Conclusão <strong>Dezembro 2023</strong>    
+<strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> - Conclusão <strong>Dezembro 2024</strong><br>
+<strong>Desenvolvimento Web</strong> - Conclusão <strong>Dezembro 2023</strong>    
  
  
 
