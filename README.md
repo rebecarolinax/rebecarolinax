@@ -31,7 +31,7 @@ My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</str
 <h2>Estudando | Studying 🧠</h2>
 
 <div>
-
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
