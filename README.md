@@ -59,7 +59,7 @@ My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</str
 <h2>Formação Escolar | Education 🎓</h2> 
   
 <strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> - Conclusão <strong>Dezembro 2024</strong><br>
-<strong>Desenvolvimento Web</strong> - Conclusão <strong>Dezembro 2023</strong>    
+<strong>Desenvolvimento Web</strong> - Concluído <strong>Dezembro 2023</strong>    
  
  
 
