@@ -2,7 +2,7 @@
 
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=E0004D&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=3c096c&style=for-the-badge&logo=GitHub">
 
 
 <div>
@@ -43,8 +43,8 @@ My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</str
 
   <a href="https://github.com/rebecarolinax">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&count_private=true&ring_color=E0004D&title_color=E0004D&icon_color=E0004D&rank-circle_color=E0004D&text_color=ffffff&bg_color=000000"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&title_color=E0004D&text_color=ffffff&bg_color=000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecarolinax&show_icons=true&count_private=true&ring_color=3c096c&title_color=3c096c&icon_color=3c096c&rank-circle_color=3c096c&text_color=ffffff&bg_color=000000"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecarolinax&layout=compact&title_color=3c096c&text_color=ffffff&bg_color=000000" />
 </div>
 
 
