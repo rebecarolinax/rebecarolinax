@@ -1,4 +1,4 @@
-<img src="https://openseauserdata.com/files/1dfd9f20043f3b21c35ecab73da0b9f3.gif" min-width="300px" max-width="350px" width="300px" align="center">
+<img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" min-width="1000px" max-width="1000px" width="1000px" align="center">
 
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
 
