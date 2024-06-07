@@ -7,10 +7,10 @@
 
 <div>
 
-Meu nome é <strong>Rebeca Carolina</strong>, tenho <strong>dezesseis anos de idade</strong> e atualmente estou cursando <strong>Desenvolvimento De Sistemas</strong> na <strong>Instituição SENAI Informática.</strong><br>
+Meu nome é <strong>Rebeca Carolina</strong>, tenho <strong>dezessete anos de idade</strong> e atualmente estou cursando <strong>Desenvolvimento De Sistemas</strong> na <strong>Instituição SENAI Informática.</strong><br>
 
 
-My name is <strong>Rebeca Carolina</strong>, I am <strong>sixteen years old</strong>, and I am currently studying <strong>Systems Development</strong> at <strong>"SENAI Informática".</strong><br>
+My name is <strong>Rebeca Carolina</strong>, I am <strong>seventeen years old</strong> and I am currently studying <strong>Systems Development</strong> at <strong>"SENAI Informática".</strong><br>
 
 
 <h2>Habilidades | Skills 🥇 </h2> 
