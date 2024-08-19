@@ -64,6 +64,12 @@ My name is <strong>Rebeca Carolina</strong>, I am <strong>seventeen years old</s
 <strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> - Conclusão <strong>Dezembro 2024 ⌛</strong><br>
 <strong>Desenvolvimento Web</strong> - Concluído <strong>Dezembro 2023 ✅</strong><br>
 <strong>PL-900</strong> - Concluído <strong>Maio 2024 ✅<strong>
+
+<h2>Contribuições | Contributions 🎓</h2> 
+
+<div align = "center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rebecarolinax&&show_icons=true&count_private=true&ring_color=3c096c&title_color=3c096c&icon_color=3c096c&rank-circle_color=3c096c&text_color=ffffff&bg_color=000000007e&line=8b007e&point=00d668" width="100%">
+</div>
  
  
 
