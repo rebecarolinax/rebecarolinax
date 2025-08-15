@@ -2,18 +2,17 @@
 
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=REBECA CAROLINA&color=3c096c&style=for-the-badge&logo=GitHub">
 
 
 <div>
 
-Meu nome é <strong>Rebeca Carolina</strong>, tenho <strong>dezoito anos de idade</strong> e atualmente sou <strong>graduanda em Engenharia de Computação</strong> pela <strong>Universidade Presbiteriana Mackenzie.</strong><br>
+👩🏻‍💻 Meu nome é <strong>Rebeca Carolina</strong>, tenho <strong>dezoito anos de idade</strong> e atualmente sou <strong>graduanda em Engenharia de Computação</strong> pela <strong>Universidade Presbiteriana Mackenzie.</strong><br>
 Sou formada em <strong>Desenvolvimento de Sistemas</strong> pelo <strong>SENAI Informática.</strong>
 
 
 My name is <strong>Rebeca Carolina</strong>, I am <strong>eighteen years old</strong> and I am currently an <strong>undergraduate student in Computer Engineering</strong> at <strong>Mackenzie Presbyterian University.</strong>
 <br>
-I hold a <strong>technical degree in Systems Development</strong> from <strong>"SENAI Informática"</strong>.
+I hold a <strong>technical degree in Systems Development</strong> from <strong>"SENAI Informática"</strong>. 🚀
 
 
 <h2>Habilidades | Skills 🥇 </h2> 
@@ -64,16 +63,11 @@ I hold a <strong>technical degree in Systems Development</strong> from <strong>"
 
 <h2>Formação Escolar e Certificações | Education and Certifications 🎓</h2> 
   
-<strong>Desenvolvimento De Sistemas</strong> e o <strong>Novo Ensino Médio</strong> - Conclusão <strong>Dezembro 2024 ⌛</strong><br>
+<strong>Desenvolvimento de Sistemas</strong> e o <strong>Novo Ensino Médio</strong> - Conclusão <strong>Dezembro 2024 ✅</strong><br>
 <strong>Desenvolvimento Web</strong> - Concluído <strong>Dezembro 2023 ✅</strong><br>
-<strong>PL-900</strong> - Concluído <strong>Maio 2024 ✅<strong>
+<strong>PL-900</strong> - Concluído <strong>Maio 2024 ✅<strong><br>
+<strong>Engenharia de Computação</strong> - Conclusão <strong>Dezembro 2029 ⏳</strong>
 
-<h2>Contribuições | Contributions 🎓</h2> 
-
-<div align = "center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rebecarolinax&&show_icons=true&count_private=true&ring_color=3c096c&title_color=3c096c&icon_color=3c096c&rank-circle_color=3c096c&text_color=ffffff&bg_color=000000007e&line=8b007e&point=00d668" width="100%">
-</div>
- 
  
 
 
