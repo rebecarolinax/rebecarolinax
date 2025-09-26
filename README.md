@@ -12,7 +12,7 @@ Sou formada em <strong>Desenvolvimento de Sistemas</strong> pelo <strong>SENAI I
 
 My name is <strong>Rebeca Carolina</strong>, I am <strong>eighteen years old</strong> and I am currently an <strong>undergraduate student in Computer Engineering</strong> at <strong>Mackenzie Presbyterian University.</strong>
 <br>
-I hold a <strong>technical degree in Systems Development</strong> from <strong>"SENAI Informática"</strong>. 🚀
+I hold a <strong>technical degree in Systems Development</strong> from <strong>SENAI SP</strong>. 🚀
 
 
 <h2>Habilidades | Skills 🥇 </h2> 
