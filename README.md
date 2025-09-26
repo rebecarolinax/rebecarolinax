@@ -7,12 +7,12 @@
 <div>
 
 👩🏻‍💻 Meu nome é <strong>Rebeca Carolina</strong>, tenho <strong>dezoito anos de idade</strong> e atualmente sou <strong>graduanda em Engenharia de Computação</strong> pela <strong>Universidade Presbiteriana Mackenzie.</strong><br>
-Sou formada em <strong>Desenvolvimento de Sistemas</strong> pelo <strong>SENAI SP.</strong>
+Sou formada em <strong>Desenvolvimento de Sistemas</strong> pelo <strong>SENAI.</strong>
 
 
 My name is <strong>Rebeca Carolina</strong>, I am <strong>eighteen years old</strong> and I am currently an <strong>undergraduate student in Computer Engineering</strong> at <strong>Mackenzie Presbyterian University.</strong>
 <br>
-I hold a <strong>technical degree in Systems Development</strong> from <strong>SENAI SP</strong>. 🚀
+I hold a <strong>technical degree in Systems Development</strong> from <strong>SENAI</strong>. 🚀
 
 
 <h2>Habilidades | Skills 🥇 </h2> 
